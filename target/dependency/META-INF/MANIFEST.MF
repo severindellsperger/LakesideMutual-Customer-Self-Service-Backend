@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.1
+Built-By: sdellsperger
+Build-Jdk: 13
+Implementation-Title: customer-self-service-backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lakesidemutual
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/customer-self-service-backend
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.lakesidemutual.customerselfservice.CustomerSelfServiceA
+ pplication
+Spring-Boot-Version: 2.1.0.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
